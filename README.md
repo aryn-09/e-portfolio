@@ -5,4 +5,4 @@ ID : 21DCS024
 Name : Aryan Ginoya  
 THEME: Values & Ethics   
   
-[CLICK HERE]([https://pages.github.com/](https://aryn-09.github.io/e-portfolio/))
+[CLICK HERE](https://aryn-09.github.io/e-portfolio/)
