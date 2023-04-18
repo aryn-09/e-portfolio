@@ -1,0 +1,6 @@
+# e-portfolio
+This is an E-Portfolio website for HS111.02 A: HUMAN VALUES & PROFESSIONAL ETHICS.
+
+ID : 21DCS024
+Name : Aryan Ginoya
+THEME: Values & Ethics
